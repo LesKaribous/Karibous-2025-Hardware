@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "teensy")(type "KiCad")(uri "${KICAD_USER_TEMPLATE_DIR}/Librairies/teensy.pretty")(options "")(descr ""))
+)

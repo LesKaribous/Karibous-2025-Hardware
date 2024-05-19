@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SparkFun-RF")(type "Legacy")(uri "${KIPRJMOD}/Librairies/Symbols/SparkFun-RF.lib")(options "")(descr ""))
+  (lib (name "Teensy 4.0")(type "KiCad")(uri "${KIPRJMOD}/Librairies/teensy_4_0/DEV-15583.kicad_sym")(options "")(descr ""))
+  (lib (name "Teensy")(type "Legacy")(uri "${KIPRJMOD}/Librairies/teensy_library/teensy.lib")(options "")(descr ""))
+)

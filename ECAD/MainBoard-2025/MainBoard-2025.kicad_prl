@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -64,8 +64,8 @@
       39,
       40
     ],
-    "visible_layers": "fff5f7f_7ffffffe",
-    "zone_display_mode": 0
+    "visible_layers": "fff5f4f_ffffffff",
+    "zone_display_mode": 1
   },
   "meta": {
     "filename": "MainBoard-2025.kicad_prl",

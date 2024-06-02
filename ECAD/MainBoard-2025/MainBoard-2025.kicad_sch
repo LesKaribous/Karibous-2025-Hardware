@@ -6816,6 +6816,25 @@
 		)
 		(uuid "36be2a46-399b-479e-a995-178e60173e9f")
 	)
+	(text_box "! ATTENTION !\nVérifier le courant\navec les nouveaux\nmoteurs pas-à-pas"
+		(exclude_from_sim no)
+		(at 201.93 149.86 0)
+		(size 20.32 11.43)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify top)
+		)
+		(uuid "ca19eb9f-dc4e-4270-9fd5-2a0207276b83")
+	)
 	(text_box "! - TODO - GND2 - !"
 		(exclude_from_sim no)
 		(at 186.69 100.33 0)

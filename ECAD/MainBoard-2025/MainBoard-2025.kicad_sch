@@ -11172,6 +11172,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+3V3")
+		(at 271.78 82.55 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "39263a14-98fc-4ad6-8de2-942741c3c208")
+		(property "Reference" "#PWR044"
+			(at 267.97 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+3V3"
+			(at 274.574 82.55 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 271.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 271.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 271.78 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "8ea821f1-d1e5-45be-a65b-4fd7e2e73c16")
+		)
+		(instances
+			(project "MainBoard-2025"
+				(path "/b1b0855c-c4b6-47dd-8ac8-2346963564b3"
+					(reference "#PWR044")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 256.54 20.32 270)
 		(unit 1)
@@ -14840,72 +14906,6 @@
 			(project "MainBoard-2025"
 				(path "/b1b0855c-c4b6-47dd-8ac8-2346963564b3"
 					(reference "IHM-IO2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+5V")
-		(at 271.78 82.55 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9faeb1d7-249d-4c42-b06f-dd7727d0f682")
-		(property "Reference" "#PWR0139"
-			(at 267.97 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+5V"
-			(at 274.955 82.5429 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" ""
-			(at 271.78 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 271.78 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 271.78 82.55 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1cec507b-ee8f-464c-8ba9-c17212403097")
-		)
-		(instances
-			(project "MainBoard-2025"
-				(path "/b1b0855c-c4b6-47dd-8ac8-2346963564b3"
-					(reference "#PWR0139")
 					(unit 1)
 				)
 			)

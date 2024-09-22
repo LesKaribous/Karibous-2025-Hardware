@@ -8040,7 +8040,7 @@
 			(pintype "passive")
 			(uuid "bb240b7f-4d93-4dbf-94fe-ea82e41209bb")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Buzzer_Beeper.3dshapes/Buzzer_15x7.5RM7.6.wrl"
+		(model "${KIPRJMOD}/packages3D/Buzzer_15x7.5RM7.6.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -15561,9 +15561,9 @@
 			(thermal_bridge_width 1)
 			(uuid "e9e7bb25-9cc4-407b-92af-2537b1afe5dc")
 		)
-		(model "${KIPRJMOD}/packages3D/Fuse - mini 3A.step"
+		(model "${KIPRJMOD}/packages3D/Fuseholder_Blade_Mini_Keystone_3568.wrl"
 			(offset
-				(xyz 5 -1.5 16.5)
+				(xyz 0 0 0)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -15572,9 +15572,9 @@
 				(xyz 0 0 0)
 			)
 		)
-		(model "${KIPRJMOD}/packages3D/Fuseholder_Blade_Mini_Keystone_3568.wrl"
+		(model "${KIPRJMOD}/packages3D/Fuse - mini 3A.step"
 			(offset
-				(xyz 0 0 0)
+				(xyz 5 -1.5 16.5)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -18307,7 +18307,7 @@
 			(pintype "passive")
 			(uuid "0d4e955d-4e93-4a51-92b1-f54ba4c8c10f")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -18861,7 +18861,7 @@
 			(pintype "passive")
 			(uuid "e7709ce7-31f5-467a-800c-2c1de12a116d")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Capacitor_SMD.3dshapes/CP_Elec_5x5.4.wrl"
+		(model "${KIPRJMOD}/packages3D/CP_Elec_5x5.4.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -28683,7 +28683,7 @@
 			(pintype "passive")
 			(uuid "2fb70f00-436e-4b71-af3d-3d0eca4aa5a6")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/Molex_KK-254_AE-6410-06A_1x06_P2.54mm_Vertical.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -29355,7 +29355,7 @@
 			(pintype "passive")
 			(uuid "e3c9fa6c-bec3-40ff-9e8d-57620490a415")
 		)
-		(model "${KICAD8_3DMODEL_DIR}/Resistor_SMD.3dshapes/R_1206_3216Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/R_1206_3216Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)

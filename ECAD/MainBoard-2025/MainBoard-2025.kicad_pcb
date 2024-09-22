@@ -72,6 +72,8 @@
 		)
 		(pad_to_mask_clearance 0)
 		(allow_soldermask_bridges_in_footprints no)
+		(aux_axis_origin 95 231)
+		(grid_origin 95 231)
 		(pcbplotparams
 			(layerselection 0x00010fc_ffffffff)
 			(plot_on_all_layers_selection 0x0000000_00000000)
@@ -6275,7 +6277,7 @@
 		(descr "Through hole straight pin header, 1x02, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x02 2.54mm single row")
 		(property "Reference" "J8"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "90c65250-11a9-4dee-a5bf-32c5e002e6c7")
@@ -6287,7 +6289,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at -4.968 11.484 360)
+			(at -4.968 11.484 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "0a7f085d-839a-4363-a7a3-77964535cb3a")
@@ -10327,7 +10329,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R6"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "e5f74a6b-909b-4103-98f8-14183b0d1cc5")
@@ -10339,7 +10341,7 @@
 			)
 		)
 		(property "Value" "100R"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6b9e147b-f66c-4ebe-8a32-014b57555ab1")
@@ -23103,7 +23105,7 @@
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-04A example for new part number: 22-27-2041, 4 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J12"
-			(at 3.81 4.12 360)
+			(at 3.81 4.12 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "e22f8c78-2586-4957-b579-9ca49bcdb912")
@@ -23116,7 +23118,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 3.81 -4.08 360)
+			(at 3.81 -4.08 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "74a0d295-7812-4424-adb4-fa63b46d08d8")
@@ -26368,7 +26370,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP2"
-			(at 0 1.8 360)
+			(at 0 1.8 0)
 			(layer "B.SilkS")
 			(uuid "afd7ee3b-a238-4d9d-b337-5be2250d6bcb")
 			(effects
@@ -26380,7 +26382,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 360)
+			(at 0 -1.9 0)
 			(layer "B.Fab")
 			(uuid "9d15e1af-2d2a-4005-9ca2-f4e0689c7268")
 			(effects
@@ -30559,7 +30561,7 @@
 		(descr "SMD Solder Jumper, 1x1.5mm, rounded Pads, 0.3mm gap, open")
 		(tags "solder jumper open")
 		(property "Reference" "JP1"
-			(at 0 1.8 360)
+			(at 0 1.8 0)
 			(layer "B.SilkS")
 			(uuid "c03735c9-7275-4bcc-acd9-b90569ac20fe")
 			(effects
@@ -30571,7 +30573,7 @@
 			)
 		)
 		(property "Value" "SolderJumper_2_Open"
-			(at 0 -1.9 360)
+			(at 0 -1.9 0)
 			(layer "B.Fab")
 			(uuid "0c1ffb70-6933-4234-95e8-21d7fb084d9a")
 			(effects
@@ -33622,7 +33624,7 @@
 		(descr "Molex KK-254 Interconnect System, old/engineering part number: AE-6410-04A example for new part number: 22-27-2041, 4 Pins (http://www.molex.com/pdm_docs/sd/022272021_sd.pdf), generated with kicad-footprint-generator")
 		(tags "connector Molex KK-254 vertical")
 		(property "Reference" "J2"
-			(at -2.667 -0.127 360)
+			(at -2.667 -0.127 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "ba2ae55f-6e51-4ce7-bb1f-a48b488f2b46")
@@ -33635,7 +33637,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04"
-			(at 3.81 -4.08 360)
+			(at 3.81 -4.08 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "a067f38d-4b1b-4cfe-9fc4-2835e285a6c7")

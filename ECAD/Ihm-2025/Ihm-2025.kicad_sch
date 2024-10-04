@@ -2603,7 +2603,7 @@
 			)
 		)
 	)
-	(global_label "IHM_4"
+	(global_label "Detection"
 		(shape input)
 		(at 143.51 110.49 0)
 		(fields_autoplaced yes)
@@ -2615,7 +2615,7 @@
 		)
 		(uuid "99a43fdf-d0a8-4108-a37c-67f94dc3ff06")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 151.9796 110.49 0)
+			(at 155.3852 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2647,7 +2647,7 @@
 			)
 		)
 	)
-	(global_label "IHM_4"
+	(global_label "Detection"
 		(shape input)
 		(at 121.92 133.35 180)
 		(fields_autoplaced yes)
@@ -2659,7 +2659,7 @@
 		)
 		(uuid "a05c4dd5-72ab-42d4-b33d-e2e17f084891")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 113.3553 133.35 0)
+			(at 110.0448 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)

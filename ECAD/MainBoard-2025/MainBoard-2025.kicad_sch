@@ -8403,7 +8403,7 @@
 	)
 	(global_label "Analog1"
 		(shape input)
-		(at 107.95 105.41 0)
+		(at 107.95 100.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8413,7 +8413,7 @@
 		)
 		(uuid "72f04df1-bbe3-4f5c-bdcd-859f39dcba65")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.5896 105.41 0)
+			(at 118.5896 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8511,7 +8511,7 @@
 			)
 		)
 	)
-	(global_label "IHM_3"
+	(global_label "Init-2"
 		(shape input)
 		(at 255.27 99.06 180)
 		(fields_autoplaced yes)
@@ -8523,7 +8523,7 @@
 		)
 		(uuid "7d2ee3da-fc0b-4e90-bc42-0782222bb464")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.7053 99.06 0)
+			(at 246.3235 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8533,7 +8533,7 @@
 			)
 		)
 	)
-	(global_label "Detection"
+	(global_label "Tirette-2"
 		(shape input)
 		(at 44.45 120.65 180)
 		(fields_autoplaced yes)
@@ -8545,7 +8545,7 @@
 		)
 		(uuid "7fef64ee-6a2b-4668-a5a2-aec98718a4e7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 32.9564 120.5706 0)
+			(at 32.6006 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8599,9 +8599,9 @@
 			)
 		)
 	)
-	(global_label "IHM_3"
+	(global_label "Init-2"
 		(shape input)
-		(at 107.95 120.65 0)
+		(at 107.95 107.95 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -8611,7 +8611,7 @@
 		)
 		(uuid "86d8999d-fb6a-44f5-9f53-f4c0f2a93721")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.5941 120.65 0)
+			(at 116.8965 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8687,7 +8687,7 @@
 			)
 		)
 	)
-	(global_label "IHM_4"
+	(global_label "Detection"
 		(shape input)
 		(at 255.27 101.6 180)
 		(fields_autoplaced yes)
@@ -8699,7 +8699,7 @@
 		)
 		(uuid "8e010f10-1d3a-4099-b779-3605ab67acc3")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 246.7053 101.6 0)
+			(at 243.2997 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8775,7 +8775,7 @@
 			)
 		)
 	)
-	(global_label "IHM_4"
+	(global_label "Detection"
 		(shape input)
 		(at 107.95 113.03 0)
 		(fields_autoplaced yes)
@@ -8787,7 +8787,7 @@
 		)
 		(uuid "93ebd94f-1a28-4189-9a4c-29443864688a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 116.5941 113.03 0)
+			(at 119.9203 113.03 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9173,7 +9173,7 @@
 	)
 	(global_label "C_Act1-6"
 		(shape input)
-		(at 107.95 100.33 0)
+		(at 107.95 105.41 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9183,7 +9183,7 @@
 		)
 		(uuid "b792dacd-4b7a-4bae-a1f1-7519b4112c91")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 119.6855 100.2506 0)
+			(at 119.6855 105.3306 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9457,7 +9457,7 @@
 			)
 		)
 	)
-	(global_label "Detection"
+	(global_label "Tirette-2"
 		(shape input)
 		(at 255.27 96.52 180)
 		(fields_autoplaced yes)
@@ -9469,7 +9469,7 @@
 		)
 		(uuid "ef3279b4-90b6-4ea0-8c61-ca022c80794e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 243.7764 96.4406 0)
+			(at 243.4206 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9525,7 +9525,7 @@
 	)
 	(global_label "Analog0"
 		(shape input)
-		(at 107.95 107.95 0)
+		(at 107.95 102.87 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -9535,7 +9535,7 @@
 		)
 		(uuid "f834c0ee-2cb1-436f-a78a-29684b41f931")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 118.5896 107.95 0)
+			(at 118.5896 102.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)

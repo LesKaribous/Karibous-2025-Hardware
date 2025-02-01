@@ -162,6 +162,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -173,6 +174,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -267,6 +269,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -278,6 +281,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -558,7 +562,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J11"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "f44572d1-80c5-4d5c-96f9-29ca348a362c")
@@ -570,7 +574,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "f73af3d3-24ce-4e4c-be0a-e1264dd531cc")
 			(effects
@@ -837,7 +841,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J9"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "1a112810-d183-4a5a-b251-d957f54d481e")
@@ -849,7 +853,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "0c20c6eb-89b1-498b-8ad0-40236e9c0e3e")
 			(effects
@@ -1116,7 +1120,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J3"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "459b1e5b-b800-462e-80cb-5b62b7459aec")
@@ -1128,7 +1132,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "cc0816a0-16ef-46d2-b0a1-4c75f7e2d2b8")
 			(effects
@@ -1402,6 +1406,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -1413,6 +1418,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -2496,7 +2502,7 @@
 		)
 		(fp_line
 			(start 2.26 -4.065)
-			(end 2.259999 4.065)
+			(end 2.26 4.065)
 			(stroke
 				(width 0.12)
 				(type solid)
@@ -4151,6 +4157,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4162,6 +4169,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -4434,7 +4442,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=5.00mm, , diameter=10mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 5.00mm  diameter 10mm Electrolytic Capacitor")
 		(property "Reference" "C1"
-			(at 2.5 -6.249999 360)
+			(at 2.5 -6.249999 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "cba1ad96-6b70-46fa-bd41-9f290718bd7c")
@@ -4446,7 +4454,7 @@
 			)
 		)
 		(property "Value" "C_Polarized_Small"
-			(at 2.5 6.249999 360)
+			(at 2.5 6.249999 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "084b112d-dcfd-4801-aa54-60bf427059e5")
@@ -4458,7 +4466,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D10.0mm_P5.00mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4837e90a-3620-4db2-b703-532e63b3bebe")
@@ -4470,7 +4478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "4d5ee38b-9844-4a6b-a1ca-2301d2ba2b20")
@@ -4482,7 +4490,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9aca5d28-a27e-498a-b551-8d487772a253")
@@ -6472,7 +6480,7 @@
 			(uuid "263960db-ac36-42ac-a092-0ee4b342f26f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 2.5 0 360)
+			(at 2.5 0 0)
 			(layer "F.Fab")
 			(uuid "473c668c-5f7b-4cf5-8012-906483dc5dc1")
 			(effects
@@ -6743,6 +6751,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6754,6 +6763,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -6836,7 +6846,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J10"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "762471d0-11d1-4ad2-b29e-895ee9d4fb0e")
@@ -6848,7 +6858,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "64fdb508-83b0-4720-84fb-6ea73de3b155")
 			(effects
@@ -7122,6 +7132,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7133,6 +7144,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -7207,7 +7219,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J7"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "25974260-e392-4dbc-940c-7702309fe8ba")
@@ -7219,7 +7231,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "43c43948-4e77-42b5-9755-f9e12ea9facd")
 			(effects
@@ -7486,7 +7498,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J6"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4f4c4070-4876-4e58-b78c-9be5af25c1d1")
@@ -7498,7 +7510,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "4c58471e-3709-4367-b8d1-7d569191a863")
 			(effects
@@ -7765,7 +7777,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J8"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "43ca62d1-0ce4-4d17-8828-54fb64e3f436")
@@ -7777,7 +7789,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "631ec890-7ca8-426e-9773-1b7c1bd8370f")
 			(effects
@@ -8051,6 +8063,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8062,6 +8075,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -8135,7 +8149,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J5"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "92198b1c-12d5-421b-acb9-860297b4c6f2")
@@ -8147,7 +8161,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "7850c63f-5125-4c52-83b6-2bc71db1cbc0")
 			(effects
@@ -8414,7 +8428,7 @@
 		(descr "Through hole straight pin header, 1x03, 2.54mm pitch, single row")
 		(tags "Through hole pin header THT 1x03 2.54mm single row")
 		(property "Reference" "J4"
-			(at 0 -2.33 360)
+			(at 0 -2.33 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "da497da5-d0a6-45a1-ade6-cab520465c92")
@@ -8426,7 +8440,7 @@
 			)
 		)
 		(property "Value" "Conn_01x03"
-			(at 0 7.41 360)
+			(at 0 7.41 0)
 			(layer "F.Fab")
 			(uuid "4e583cf2-08d0-4b39-a880-cdfae1d3892b")
 			(effects
@@ -8693,7 +8707,7 @@
 		(descr "CP, Radial series, Radial, pin pitch=2.00mm, , diameter=5mm, Electrolytic Capacitor")
 		(tags "CP Radial series Radial pin pitch 2.00mm  diameter 5mm Electrolytic Capacitor")
 		(property "Reference" "C3"
-			(at 1 -3.75 360)
+			(at 1 -3.75 0)
 			(layer "F.SilkS")
 			(uuid "99921c9c-f70f-424f-91b9-ff64e00621a6")
 			(effects
@@ -8704,7 +8718,7 @@
 			)
 		)
 		(property "Value" "C_Polarized_Small"
-			(at 1 3.75 360)
+			(at 1 3.75 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "e1e708ba-caba-4519-94a2-17f6e949ea23")
@@ -8716,7 +8730,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_THT:CP_Radial_D5.0mm_P2.00mm"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "2d3fe09e-4b2a-463f-b829-0a412fec2f17")
@@ -8728,7 +8742,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "63bfba15-8686-4546-9fc0-2b19bdd02bf3")
@@ -8740,7 +8754,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "75289301-7561-4187-b8bd-ed23fa41bcd5")
@@ -10000,7 +10014,7 @@
 			(uuid "3a86913b-d325-469d-99bf-10362833b6d6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1 0 360)
+			(at 1 0 0)
 			(layer "F.Fab")
 			(uuid "f149694e-4336-45f7-8a0b-aed91118ad18")
 			(effects
@@ -10056,6 +10070,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10067,6 +10082,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10144,6 +10160,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10155,6 +10172,7 @@
 			(effects
 				(font
 					(size 0.001 0.001)
+					(thickness 0.15)
 				)
 			)
 		)
@@ -10254,7 +10272,7 @@
 		(uuid "c90f9582-298d-480a-8829-41e8985165cb")
 		(at 92.563496 80.017431)
 		(property "Reference" "G***"
-			(at -1.270001 9.525 360)
+			(at -1.270001 9.525 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "4f088c65-e9e5-46d0-a9e6-19eb4216a492")
@@ -10266,7 +10284,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 360)
+			(at 0.75 0 0)
 			(layer "F.SilkS")
 			(hide yes)
 			(uuid "05db40be-4c5a-4b31-8369-d73a8c3d9c15")
@@ -10278,7 +10296,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b38746f2-e785-4ad6-b260-6bf0e4a2b286")
@@ -10290,7 +10308,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "3fbfa44a-0943-4f5d-b41f-6587fb76f317")
@@ -10302,7 +10320,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "276e168c-44ed-4092-8004-0004c8093389")
@@ -11657,7 +11675,7 @@
 			(uuid "378e526d-5a27-490c-9809-30a858151ca1")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.27 5.08 360)
+			(at 1.27 5.08 0)
 			(layer "F.Fab")
 			(uuid "fb08eb4e-4d01-46b4-b939-0155c8ef8388")
 			(effects
@@ -12440,7 +12458,7 @@
 		(descr "LED SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf), generated with kicad-footprint-generator")
 		(tags "LED handsolder")
 		(property "Reference" "D1"
-			(at 0 1.82 360)
+			(at 0 1.82 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "bcfbf0fc-e1d4-4713-9434-d5f3b1b90b7a")
@@ -12453,7 +12471,7 @@
 			)
 		)
 		(property "Value" "LED_Small"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "B.Fab")
 			(uuid "4206ccdf-4d5e-4a49-85ca-882972e6150d")
 			(effects
@@ -12465,7 +12483,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_1206_3216Metric_Pad1.42x1.75mm_HandSolder"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "9d9091ca-a8ca-4ab1-836a-aa9f49ddc1b8")
@@ -12478,7 +12496,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "0ebd4fbc-1d4e-41e2-b4d3-e4575a245599")
@@ -12491,7 +12509,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "546f346d-e65d-4151-bd1a-8450774050a2")
@@ -12629,7 +12647,7 @@
 			(uuid "9c3666ff-48f7-42fc-87ea-b19fd9bff60f")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "908f0efd-a885-4394-a6f7-105887c97de7")
 			(effects
@@ -13991,7 +14009,7 @@
 		(descr "Resistor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "resistor handsolder")
 		(property "Reference" "R1"
-			(at 0 -0.254 360)
+			(at 0 -0.254 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "e5803e45-bd73-45c0-b324-74c3d0cd5ee0")
@@ -14004,7 +14022,7 @@
 			)
 		)
 		(property "Value" "R_Small"
-			(at 0 -1.82 360)
+			(at 0 -1.82 0)
 			(layer "B.Fab")
 			(uuid "2c258e51-8ac2-4b9d-aba4-645b6790e3ee")
 			(effects
@@ -14016,7 +14034,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "bffd3abb-53eb-4068-b3eb-05f92b740794")
@@ -14029,7 +14047,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b8f19092-8c00-4ff0-b83a-bead1e64a516")
@@ -14042,7 +14060,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "725a348d-62a0-427a-aa78-7a325eb17041")
@@ -14160,7 +14178,7 @@
 			(uuid "d09fca4c-55e2-452c-818b-2a461bf643cc")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "6cfa3401-aa92-47e4-b58a-92f49c22748f")
 			(effects
@@ -14786,7 +14804,7 @@
 		(uuid "c2c0de4d-5aa5-46b2-9803-826ce6c6cc56")
 		(at 53.482081 89.040057)
 		(property "Reference" "G***"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "4b76407f-687d-4d08-9903-f82746b4f564")
@@ -14799,7 +14817,7 @@
 			)
 		)
 		(property "Value" "LOGO"
-			(at 0.75 0 360)
+			(at 0.75 0 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "f24ea7b2-ebfa-4ea1-8cae-6634f89d1c67")
@@ -14812,7 +14830,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "6bba023e-e09f-4f0c-a568-c139875760a0")
@@ -14824,7 +14842,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "b1661866-6fac-4b73-bdc7-926852b5e71a")
@@ -14836,7 +14854,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
 			(uuid "9d332aa4-8b6b-44ab-82e2-0e38a59ae873")
@@ -15155,7 +15173,7 @@
 			(at 0 0 135)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "17a5c135-13b9-43c9-ab34-a5d32bfab494")
+			(uuid "bec1f7b8-6e6a-44a0-8765-c61fc27f5634")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15168,7 +15186,7 @@
 			(at 0.75 0 135)
 			(layer "B.SilkS")
 			(hide yes)
-			(uuid "ea41d734-15a4-4b77-8914-ba79d2370ec5")
+			(uuid "0f65a630-6aec-4703-aa76-bebf2ae93ae1")
 			(effects
 				(font
 					(size 1.524 1.524)
@@ -15230,7 +15248,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "cd4a54b8-ae25-452f-9cac-4f606f47831d")
+			(uuid "baa3e33c-de07-4941-b82c-6f6f3ca9b78c")
 		)
 		(fp_poly
 			(pts
@@ -15249,7 +15267,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "6a20c84c-a6b5-42cd-8ff2-4f58202ed23a")
+			(uuid "16860430-5c55-4a50-af08-c16400daa5c1")
 		)
 		(fp_poly
 			(pts
@@ -15270,7 +15288,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "66038996-a46c-4850-9f62-775499845652")
+			(uuid "a4ccec8f-f56c-4228-86c9-3d6fad198138")
 		)
 		(fp_poly
 			(pts
@@ -15296,7 +15314,7 @@
 			)
 			(fill solid)
 			(layer "B.SilkS")
-			(uuid "8f208eed-0d52-4843-b906-b6076007522e")
+			(uuid "1ffd1c81-52ad-48a7-ba16-f92f6a1da589")
 		)
 	)
 	(gr_line

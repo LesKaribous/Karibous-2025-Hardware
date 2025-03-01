@@ -4,3 +4,5 @@
 *.FCBak
 /ECAD/PCA9685-2025/PCA9685-2025-backups
 /ECAD/LidarBoard-2025/LidarBoard-2025-backups
+/ECAD/MainBoard-2025/MainBoard-2025-backups
+/ECAD/DriverBoard-2025/DriverBoard-2025-backups
